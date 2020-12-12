@@ -1,6 +1,6 @@
-title: Page title by me.
+title: Page title by me
 author: David Pinto
-email: davidpinto1979@gmail.com
+email: ceo@davidpinto.pt
 description: > # this means to ignore newlines until "baseurl:"
   Description for my new site in GitHub. Line edited in _config.yml.
   Appears in document head meta (for Google search results)
